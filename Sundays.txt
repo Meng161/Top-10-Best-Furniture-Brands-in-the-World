@@ -1,0 +1,8 @@
+<html>
+<head><title>Sundays</title></head>
+<link rel="Sundays" type="text/css" href=".css">
+<body BGCOLOR = "BEIGE">
+<h1 align = center>Sundays</h1>
+<h1 align = center><img src= "Sundays.jpg" width=850 height=500> </h1>
+
+<p><DD>
